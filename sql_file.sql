@@ -1,0 +1,1 @@
+SELECT * FROM popular_10000_movies_tmdb;
